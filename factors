@@ -19,6 +19,6 @@ def factor():
                     break
             if num % i != 0:
                 print("{}={}*1".format(num, num))
-             
 
-    factor()           
+
+factor() 
